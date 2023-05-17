@@ -1,5 +1,5 @@
 ---
-title:  "Try hack Me"
+title:  "TryHackMe"
 categories:
   - Artículos
 tags:
